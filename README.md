@@ -1,4 +1,4 @@
-# Flutter Dojo 01
+# FlutterDevPOA Dojo 01
 
 A partir do que foi apresentado nos primeiros encontros, o desafio era replicar a tela do Instagram, com objetivo de praticar e reforçar alguns conceitos básicos.
 
