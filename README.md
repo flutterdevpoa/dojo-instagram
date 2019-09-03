@@ -1,16 +1,16 @@
-# dojo_instagram
+# Flutter Dojo 01
 
-A new Flutter application.
+A partir do que foi apresentado nos primeiros encontros, o desafio era replicar a tela do Instagram, com objetivo de praticar e reforçar alguns conceitos básicos.
 
-## Getting Started
+## Resultado
 
-This project is a starting point for a Flutter application.
+| Original                         | Resultado                           | 
+| ---------------------------------|:-----------------------------------:| 
+| ![original](images/original.png) | ![original](images/result.png)      |
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Links
+[Evento realizado](https://www.meetup.com/pt-BR/FlutterDevPoa/events/264370004/)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](https://secure.meetupstatic.com/photos/event/7/6/a/highres_484561898.jpeg)
+![](https://secure.meetupstatic.com/photos/event/7/6/9/highres_484561897.jpeg)
